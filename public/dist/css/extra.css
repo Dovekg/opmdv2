@@ -1,0 +1,24 @@
+.patients-grid {
+    margin: 40px 0 0;
+}
+
+.radio-list .radio {
+    display: inline-block;
+    padding-right: 12px;
+}
+
+#olk, #olp {
+	margin-top: 50px;
+}
+.modal-container{
+	padding: 10px 30px;
+}
+.image-upload {
+	margin-top: 40px;
+}
+.result-images {
+	margin-bottom: 40px;
+}
+.navbar-default {
+	padding: 10px 0;
+}

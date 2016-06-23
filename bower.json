@@ -1,0 +1,9 @@
+{
+  "name": "opmd",
+  "dependencies": {
+    "bootstrap-sass": "~3.3",
+    "font-awesome": "~4.6.3",
+    "jquery": "~2.1.4",
+    "sweetalert": "~1.1"
+  }
+}
